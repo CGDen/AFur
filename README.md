@@ -1,0 +1,2 @@
+# AFur
+CG repository
